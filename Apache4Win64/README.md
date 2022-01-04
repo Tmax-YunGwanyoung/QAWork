@@ -104,8 +104,14 @@
   =============================
 
 
+## 참고
 
-
+### third party site (https://dlcdn.apache.org//httpd/binaries/win32/)
+- https://www.apachehaus.com/
+- https://www.apachelounge.com/
+- https://bitnami.com/
+- https://www.wampserver.com/
+- https://www.apachefriends.org/
 
 
 
