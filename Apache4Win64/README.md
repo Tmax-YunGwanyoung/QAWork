@@ -22,34 +22,34 @@
 ## 설치
 
 ### 설치 전 필수 OS utility 설치
-- 설치 파일 다운로드
+- 1) 설치 파일 다운로드
   - https://www.apachelounge.com/download/ 
-- Visual C++ Redistributable for Visual Studio 2015-2022 설치
+- 2) Visual C++ Redistributable for Visual Studio 2015-2022 설치
   ```
   $ OS 64bit : VC_redist.x64.exe
   $ OS 32bit : VC_redist.x86.exe
   ```
 
 ### Apache 설치
-- 설치 파일 다운로드 (VC버전에 따라 다운로드)
+- 1) 설치 파일 다운로드 (VC버전에 따라 다운로드)
   - https://www.apachelounge.com/download/
-- 설치파일
+- 2) 설치파일
   ```
   $ OS 64bit :  httpd-2.4.52-win64-VS16.zip 
   $ OS 32bit :  httpd-2.4.52-win32-VS16.zip
   ```
-- 설치
+- 3) 설치
   - 압축 파일을 임의의 경로에 압축해제 (ex: D:\hfoeapache\apache24
   - 이 경로가 Apache 설치경로임
-- Windows 환경 설정
+- 4) Windows 환경 설정
   - 환경 변수 등록
   - Windows 시스템 속성 > 환경변수(N)... > 시스템 변수(S) > Path선택 > 편집(I)... > 새로 만들기(N) > 설치경로/bin 입력 > 확인
-- Apache 환경 설정 변경
+- 5) Apache 환경 설정 변경
   - ServerRoot, Listen port 등 변경
   - Apache설치경로/conf/httpd.conf 에서 수정
   - Define SRVROOT 경로 변경 : Apache 설치경로로 변경
   - Listen 포트 변경 : 80(기본값) 에서 원하는 값으로 변경
-- Apache Windows service 등록
+- 6) Apache Windows service 등록
   - cmd 창 열고 Apache설치경로/bin 으로 이동
   - Windows Service 등록명령 수행
     ```
@@ -57,6 +57,7 @@
     ```
   - Windows 보안경고 발생 시 "액세스 허용(A)" 선택
   - Windows 서비스 목록에서 Apache2.4 서비스 확인
+
 
 
 ## Apache 기동 및 종료
