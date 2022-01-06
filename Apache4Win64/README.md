@@ -1,4 +1,4 @@
-# HyperFrameOE Apache for Win64 설치방법
+# HyperFrame Apache for Win64 설치방법
 
 ## 순서
 - 설치 전 확인 사항
@@ -105,7 +105,7 @@
   =============================
 
 
-## 참고
+## 참고 : Third Party Site
 
 ### third party site (https://dlcdn.apache.org//httpd/binaries/win32/)
 - https://www.apachehaus.com/
