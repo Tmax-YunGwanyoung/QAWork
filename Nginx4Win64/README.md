@@ -65,7 +65,7 @@
 #### 기동 확인
 - 작업관리자 > 세부정보 에서 nginx.exe 프로세스 확인
   : 실행 중 상태의 nginx.exe 프로세스 확인
-- cmd 창에 다음 명령으로 httpd.exe 프로세스 및 PID 확인
+- cmd 창에 다음 명령으로 nginx.exe 프로세스 및 PID 확인
   ```
   tasklist | findstr nginx.exe
   ```
@@ -88,7 +88,7 @@
 
 #### 종료 확인
 - 작업관리자 > 세부정보 에서 nginx.exe 프로세스 확인
-- cmd 창에 다음 명령으로 httpd.exe 프로세스 및 PID 확인
+- cmd 창에 다음 명령으로 nginx.exe 프로세스 및 PID 확인
   ```
   tasklist | findstr nginx.exe
   ```
@@ -102,7 +102,7 @@
 #### 기동 확인
 - 작업관리자 > 세부정보 에서 nginx.exe 프로세스 확인
   : 실행 중 상태의 nginx.exe 프로세스 확인
-- cmd 창에 다음 명령으로 httpd.exe 프로세스 및 PID 확인
+- cmd 창에 다음 명령으로 nginx.exe 프로세스 및 PID 확인
   ```
   tasklist | findstr nginx.exe
   ```
@@ -113,7 +113,7 @@
 
 #### 종료 확인
 - 작업관리자 > 세부정보 에서 nginx.exe 프로세스가 제거된 것 확인
-- cmd 창에 다음 명령으로 httpd.exe 프로세스가 제거되었는지 확인
+- cmd 창에 다음 명령으로 nginx.exe 프로세스가 제거되었는지 확인
   ```
   tasklist | findstr nginx.exe
   ```
