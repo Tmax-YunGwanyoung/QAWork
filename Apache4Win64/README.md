@@ -48,7 +48,7 @@
   - 압축 파일을 임의의 경로에 압축해제 (ex: D:\hyperframe\apache24
   - 이 경로가 Apache 설치경로임
 - Windows 환경 설정
-  - 환경 변수 등록
+  - 환경 변수 등록 : PATH 에 httpd.exe 가 포함된 경로 등록
   - Windows 시스템 속성 > 환경변수(N)... > 시스템 변수(S) > Path선택 > 편집(I)... > 새로 만들기(N) > 설치경로/bin 입력 > 확인
 - Apache 환경 설정 변경
   - ServerRoot, Listen port 등 변경
