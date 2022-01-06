@@ -132,3 +132,4 @@ Windows 서비스를 등록한 경우에만 사용할 수 있다.
 
 
 HyperFrame Nginx for Win64
+nginx/Windows-1.21.5
