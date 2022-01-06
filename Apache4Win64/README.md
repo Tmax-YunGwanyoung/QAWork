@@ -28,6 +28,9 @@
     ![image](https://user-images.githubusercontent.com/96853118/148351181-bf02e07a-7539-435f-9598-e7d7c7456502.png)
 
 - Visual C++ Redistributable for Visual Studio 2015-2022 설치
+
+  ![image](https://user-images.githubusercontent.com/96853118/148351619-8ca7f972-e3e4-4e8c-b941-7cd8fe469865.png)
+
   ```
   $ OS 64bit : VC_redist.x64.exe
   $ OS 32bit : VC_redist.x86.exe
