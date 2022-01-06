@@ -39,7 +39,7 @@
   $ OS 32bit :  httpd-2.4.52-win32-VS16.zip
   ```
 - 설치
-  - 압축 파일을 임의의 경로에 압축해제 (ex: D:\hfapache\apache24
+  - 압축 파일을 임의의 경로에 압축해제 (ex: D:\hyperframe\apache24
   - 이 경로가 Apache 설치경로임
 - Windows 환경 설정
   - 환경 변수 등록
