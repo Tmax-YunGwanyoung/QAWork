@@ -24,6 +24,9 @@
 ### 설치 전 필수 OS utility 설치
 - 설치 파일 다운로드
   - https://www.apachelounge.com/download/ 
+
+    ![image](https://user-images.githubusercontent.com/96853118/148351181-bf02e07a-7539-435f-9598-e7d7c7456502.png)
+
 - Visual C++ Redistributable for Visual Studio 2015-2022 설치
   ```
   $ OS 64bit : VC_redist.x64.exe
