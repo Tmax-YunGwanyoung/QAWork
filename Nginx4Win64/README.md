@@ -94,6 +94,7 @@
   ```
 
 ### Windows service를 이용한 기동 / 종료
+Windows 서비스를 등록한 경우에만 사용할 수 있다.
 
 #### Windows service를 이용한 기동
 - Windows 서비스 목록에서 nginx 선택
