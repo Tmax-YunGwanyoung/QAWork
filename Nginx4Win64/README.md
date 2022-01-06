@@ -1,4 +1,4 @@
-# HyperFrameOE Nginx for Win64 설치방법
+# HyperFrame Nginx for Win64 설치방법
 
 ## 순서
 - 설치 전 확인 사항
@@ -35,3 +35,6 @@
 
 
 
+
+
+HyperFrame Nginx for Win64
