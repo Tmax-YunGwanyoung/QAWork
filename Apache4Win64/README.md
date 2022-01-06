@@ -123,3 +123,4 @@
 
 
 HyperFrame Apache for Win64
+Apache 2.4.52 Win64 & vc_redist_x64
