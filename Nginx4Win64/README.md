@@ -19,17 +19,15 @@
 
   ![image](https://user-images.githubusercontent.com/96853118/148350490-14a77209-c267-41a4-9d65-cb65a94c5c17.png)
 
-- Nginx 를 설치할 경로에서 내려받은 nginx 설치파일 압축 해제 (
+- Nginx 를 설치할 경로에서 내려받은 nginx 설치파일 압축 해제
 
   ![image](https://user-images.githubusercontent.com/96853118/148354630-560ed0fc-7b35-4030-a93d-846718a4b6bd.png)
 
 
 ### Windows 환경변수 등록
+- 환경 변수 등록 : PATH 에 nginx.exe 가 포함된 경로 등록
 - Windows 시스템 속성 > 환경변수(N)... > 시스템 변수(S) > Path선택 > 편집(I)... > 새로 만들기(N) > [설치경로] 입력 > 확인
 
-![image](https://user-images.githubusercontent.com/96853118/148352744-de5f9b77-dcd5-4cc2-86e8-20d2af69dfba.png)
-![image](https://user-images.githubusercontent.com/96853118/148352781-92c089dc-777e-438c-b5df-601a8c815479.png)
-![image](https://user-images.githubusercontent.com/96853118/148352877-6667dad3-aa6f-488d-80ae-f608f6aca1c0.png)
 
 ### Nginx 설정
 - Nginx설치경로/conf/nginx.conf 에서 수정
