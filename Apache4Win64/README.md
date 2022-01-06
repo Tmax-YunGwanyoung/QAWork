@@ -100,7 +100,7 @@
     - 포트번호 : httpd.conf 의 "Listen" 에 설정한 포트가 LISTEN 상태인지 확인
 
 
-### Apache 호출
+## Apache 호출
 - Apache설치경로/htdocs 폴더에 index.html 파일 생성
   ```
   <html><body><h1>HyperFrame Apache it Works!</h1></body></html>
@@ -122,3 +122,4 @@
 
 
 
+HyperFrame Apache for Win64
